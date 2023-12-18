@@ -1,5 +1,7 @@
 # project-ewa
 
+My contributions have everything to do with the quiz from frontend to backend.
+
 ## Project setup
 ```
 npm install

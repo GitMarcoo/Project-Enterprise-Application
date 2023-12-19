@@ -1,6 +1,6 @@
 # project-ewa
 
-My contributions have everything to do with the quiz from frontend to backend.
+My work encompassed all aspects of the quiz, from frontend development to backend integration.
 
 ## Project setup
 ```
